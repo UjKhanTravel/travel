@@ -4901,49 +4901,6 @@ a {
 .cid-sFGTcFRqw0 textarea {
   min-height: 10rem;
 }
-.cid-sFGVxOqzIN {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #fafafa;
-}
-.cid-sFGVxOqzIN .media-container-row {
-  justify-content: space-between;
-}
-.cid-sFGVxOqzIN .text-content {
-  max-width: 50%;
-}
-@media (max-width: 768px) {
-  .cid-sFGVxOqzIN .text-content {
-    max-width: none;
-  }
-}
-.cid-sFGVxOqzIN .mbr-iconfont-social {
-  margin: 0.5rem;
-  font-size: 32px;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #4d6d9a;
-  border: 2px solid #4d6d9a;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-sFGVxOqzIN .mbr-iconfont-social:before {
-  padding: 0.6rem;
-}
-.cid-sFGVxOqzIN .mbr-iconfont-social:hover {
-  background-color: #4d6d9a;
-  color: #ffffff;
-}
-@media (max-width: 768px) {
-  .cid-sFGVxOqzIN .icons {
-    justify-content: center !important;
-  }
-  .cid-sFGVxOqzIN .text-content * {
-    text-align: center;
-  }
-}
 .cid-sFGSPUeMie {
   padding-top: 0rem;
   padding-bottom: 0rem;
